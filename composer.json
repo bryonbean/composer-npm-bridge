@@ -14,10 +14,10 @@
     "type": "composer-plugin",
     "require": {
         "php": ">=7.3",
-        "composer-plugin-api": "^1"
+        "composer-plugin-api": "^2"
     },
     "require-dev": {
-        "composer/composer": "1.10.17",
+        "composer/composer": "^2",
         "eloquent/phony-phpunit": "^7",
         "errors/exceptions": "^0.2",
         "phpunit/phpunit": "^9"
