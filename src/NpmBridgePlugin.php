@@ -106,7 +106,6 @@ class NpmBridgePlugin implements PluginInterface, EventSubscriberInterface
    */
   public function deactivate(Composer $composer, IOInterface $io)
   {
-    // TODO: Implement deactivate() method.
   }
 
   /**
@@ -119,6 +118,5 @@ class NpmBridgePlugin implements PluginInterface, EventSubscriberInterface
    */
   public function uninstall(Composer $composer, IOInterface $io)
   {
-    // TODO: Implement uninstall() method.
   }
 }
